@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th{
+  background-color: #d496c4;
+}
+</style>
+</head>
+<body style = "text-align: center">
+
+<h1>Biodata</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <td colspan="2">Nur Hasya Ameerah Binti Nazri </td>
+    <td rowspan="4"><img src="passportphoto.png"></td>
+  </tr>
+  <tr>
+    <th>Date of Birth</th>
+    <td colspan="2">8 October 2002</td>
+  </tr>
+  <tr>
+    <th>Religion</th>
+    <td colspan="2">Islam</td>
+  </tr>
+  <tr>
+    <th>Race</th>
+    <td colspan="2">Malay</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Address</th>
+    <td colspan="2">Street</td>
+    <td>No.28 Kampung Ketapang, Temonyong</td>
+  </tr>
+  <tr>
+    <td colspan="2">Town</td>
+    <td>Kedawang</td>
+  </tr>
+  <tr>
+    <td colspan="2">District</td>
+    <td>Pulau Langkawi</td>
+  </tr>
+  <tr>
+    <td colspan="2">State</td>
+    <td>Kedah</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Contact</th>
+    <td colspan="2">Mobile Phone</td>
+    <td>0138901256</td>
+  </tr>
+  <tr>
+    <td colspan="2">Social Media</td>
+    <td>@hsyameerah</td>
+  </tr>
+  <tr>
+    <td colspan="2">Website</td>
+    <td>hsyameerah@gmail.com</td>
+  </tr>
+  <tr>
+    <th>Course and Institution</th>
+    <td colspan="3">Bachelor of Computer Sciences (Software Engineering) with Honours</td>
+  </tr>
+  <tr>
+    <th>Programming Skills</th>
+    <td colspan="3">Java and HTML</td>
+  </tr>
+  <tr>
+    <th>Personal Interest</th>
+    <td colspan="3">Reading fiction books</td>
+  </tr>
+  <tr>
+    <th>Future plan in 2024</th>
+    <td colspan="3">To be graduated</td>
+  </tr>
+</table>
+ 
+</body>
+</html>
